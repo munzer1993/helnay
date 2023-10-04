@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>467963202794-qn3n406g1g66ki49us3schpajva0et6n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.467963202794-qn3n406g1g66ki49us3schpajva0et6n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>467963202794-07o81bmp4ubjrcop6hsvvcgsmcfngk5h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2mmpDPtRFPDigxBvNo4PyQuo4-_ssSBY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467963202794</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>orange.com.heleny</string>
+	<key>PROJECT_ID</key>
+	<string>orangeflutter-c956e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>orangeflutter-c956e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467963202794:ios:a20bfd81ed7185e0fa9b93</string>
+</dict>
+</plist>
